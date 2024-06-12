@@ -146,6 +146,10 @@
 - Random Spam
   
 # Overpowered
+- Anti Ban
+- Set Master
+- Lag All
+- Lag Gun
 - Float Player Gun [M]
 - Freeze Player Gun [M]
 - Push Players [M]

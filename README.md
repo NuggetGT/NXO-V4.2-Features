@@ -26,14 +26,14 @@
 - Change Time
 
 # Safety
--Anti Report
--Auto-Join Anti Report
--Leaderboard Name Spoof
--No Name
--Flush RPCs
--Disable Fingers
--Check If Master
--Disable All Mods
+- Anti Report
+- Auto-Join Anti Report
+- Leaderboard Name Spoof
+- No Name
+- Flush RPCs
+- Disable Fingers
+- Check If Master
+- Disable All Mods
 
 # Room
 - Quit Game

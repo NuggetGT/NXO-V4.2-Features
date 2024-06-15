@@ -1,5 +1,5 @@
-# NXO-V4-Features
-# Here at the features for the NXO V3.1 Mod Menu Including 125+ mods!
+# NXO-V4.1-Features
+# Here at the features for the NXO V4.1 Mod Menu Including 130+ mods!
 
 # Categorys
 - Join The Discord

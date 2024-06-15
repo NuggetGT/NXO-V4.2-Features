@@ -18,7 +18,7 @@
 -・Experimental・
 
 # Settings
--Disconnect Button
+- Disconnect Button
 -Disable Notifications
 -Clear Notifications
 -Wrist Menu

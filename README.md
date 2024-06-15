@@ -2,29 +2,28 @@
 # Here at the features for the NXO V4.1 Mod Menu Including 130+ mods!
 
 # Categorys
--・Join The Discord・
--・Settings・
--・Safety・
--・Room Mods・
--・Player Mods・
--・Movement Mods・
--・Visual Mods・
--・Fun Mods・
--・Projectile Mods・
--・Sound Mods・
--・Overpowered Mods!・
--・Force Party Codes・
--・Presets・
--・Experimental・
+- Settings
+- Safety
+- Room Mods
+- Player Mods
+- Movement Mods
+- Visual Mods
+- Fun Mods
+- Projectile Mods
+- Sound Mods
+- Overpowered Mods!
+- Force Party Codes
+- Presets
+- Experimental
 
 # Settings
 - Disconnect Button
--Disable Notifications
--Clear Notifications
--Wrist Menu
--Right Hand Menu
--Theme Changer
--Change Time
+- Disable Notifications
+- Clear Notifications
+- Wrist Menu
+- Right Hand Menu
+- Theme Changer
+- Change Time
 
 # Safety
 -Anti Report

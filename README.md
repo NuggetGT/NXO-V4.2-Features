@@ -1,5 +1,5 @@
-# NXO-V4.1-Features
-# Here at the features for the NXO V4.1 Mod Menu Including 130+ mods!
+# NXO-V4.2-Features
+# Here at the features for the NXO V4.2 Mod Menu Including 135+ mods!
 
 # Categorys
 - Settings
@@ -24,10 +24,11 @@
 - Right Hand Menu
 - Theme Changer
 - Change Time
+- Fix Movement
 
 # Safety
 - Anti Report
-- Auto-Join Anti Report
+- Queue Anti Report
 - Leaderboard Name Spoof
 - No Name
 - Flush RPCs
@@ -46,6 +47,7 @@
 - Ghost Monke [A]
 - Invisible Monke [A]
 - Ghost & Invisibility
+- Ghost Fly
 - Freeze Rig [A]
 - Long Arms
 - Longer Arms
@@ -57,16 +59,19 @@
 - Tag Aura [T]
 - Size Changer
 - Helicopter Monke [T]
-- Beyblade Monke
+- Beyblade Monke [T]
 - Spaz Monke
 - Teleport Gun
 - Rig Gun
 - Chase Gun
+- Orbit Gun
+- Intercourse Gun
 - Spin Head
 - Backwards Head
 - Flip Head
 - Snap Neck
 - Fake Lag [A]
+- Fake Quest Menu
 
 # Movement
 - Platforms
@@ -78,9 +83,9 @@
 - Noclip
 - Noclip [B]
 - Frozone
-- Fly
-- Faster Fly
-- Slower Fly
+- Slow Fly
+- Regular Fly
+- Fast Fly
 - Velocity Fly
 - Up & Down
 - Speed Boost
@@ -90,7 +95,6 @@
 - Playspace
 - Dash
 - Air Jump
-- Auto Run [G]
 - No Slip
 - Slide Control
 - Low Gravity
@@ -114,7 +118,7 @@
 - Tracers
 - First Person Camera
 - Bad Graphics
-- Distorded Lights
+- Break Lighting
 
 # Fun
 - Webshooters
@@ -134,7 +138,7 @@
 - Grab Gliders [G]
 - Spaz Gliders [G]
 
-# Projectiles
+# Projectile
 - Snowball Spam [LT & RT]
 - Balloon Spam [LT & RT]
 - Urine Spam [LT & RT]
@@ -146,30 +150,33 @@
 - Colorful Snowballs
 
 # Sound
-- Custom Sound Spam [A & B To Cycle Sounds]
-- Random Sound Spam
+- Custom Sound Spam [T|A & B]
+- Random Sound Spam [T]
 
 # Overpowered
+- Check If Modded
 - Check If Master
-- Float Player Gun [M|50%/50%]
-- Freeze Player Gun [M|50%/50%]
-- Push Players [M|50%/50%]
-- Paint Brawl Spam Gun [M|T]
-- Paint Brawl Spam All [M|T]
-- Material Spam All [M|T]
+- Float Player Gun [M|W?]
+- Freeze Player Gun [M|W?]
+- Push Players [M|W?]
+- Brawl Spam Gun [M|T]
+- Brawl Spam All [M|T]
+- Mat Spam All [M|T|RISKY]
 
 # Experimental
 - Horror Mode [DOESNT TURN OFF]
 - Blinding Mode [DOESNT TURN OFF]
-- Cupid Spam [LT & RT]
-- Icicle Spam [LT & RT/color]
-- Gay Spam [LT & RT]
-- Christmas Spam [LT & RT]
+- Cupid Spam [BREAKS SNOWBALLS]
+- Icicle Spam [BREAKS SNOWBALLS]
+- Gay Spam [BREAKS SNOWBALLS]
+- Christmas Spam [BREAKS SNOWBALLS]
+- Slip Slap [ONLY RED WALLS]
 
 # Best Trolling Mods
 - Ghost Monke
 - Invisible Monke
 - Ghost & Invisibility
+- Ghost Fly
 - Sticky Platforms
 - Sticky Platforms [T]
 - Noclip
@@ -186,6 +193,8 @@
 - Helicopter Monke
 - Beyblade Monke
 - Spaz Monke
+- Orbit Gun
+- Intercourse Gun
 
 # Best Competitive Mods
 - Speed Boost
@@ -193,8 +202,8 @@
 - Speed Boost [R GRIP]
 - Competitive Boost [R GRIP]
 - Dash [A]
+- Playspace
 - Air Jump [A]
-- Auto Run [Either Grip]
 - No Slip
 - Slide Control
 - Wall Walk

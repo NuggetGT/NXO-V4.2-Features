@@ -1,5 +1,5 @@
-# NXO-V4.2-Features
-# Here at the features for the NXO V4.2 Mod Menu Including 135+ mods!
+# NXO-V5-Features
+# Here at the features for the NXO V5 Mod Menu Including 160+ mods!
 
 # Categorys
 - Settings
@@ -7,14 +7,16 @@
 - Room Mods
 - Player Mods
 - Movement Mods
+- Tag Mods
 - Visual Mods
-- Fun Mods
 - Projectile Mods
-- Sound Mods
-- Overpowered Mods!
-- Force Party Codes
+- Sound Spammers
+- Fun Mods
+- Name Changers
 - Presets
+- Overpowered
 - Experimental
+- Admins Only
 
 # Settings
 - Disconnect Button
@@ -24,17 +26,16 @@
 - Right Hand Menu
 - Theme Changer
 - Change Time
-- Fix Movement
 
 # Safety
 - Anti Report
 - Queue Anti Report
 - Leaderboard Name Spoof
-- No Name
-- Flush RPCs
 - Disable Fingers
+- Check If Modded
 - Check If Master
 - Disable All Mods
+- Fake Quest Menu
 
 # Room
 - Quit Game
@@ -46,17 +47,12 @@
 # Player
 - Ghost Monke [A]
 - Invisible Monke [A]
-- Ghost & Invisibility
+- Ghost & Invis Combo
 - Ghost Fly
 - Freeze Rig [A]
 - Long Arms
 - Longer Arms
 - Griddy [T]
-- Tag All [T]
-- Tag Self [T]
-- Tag Gun
-- Flick Tag [T]
-- Tag Aura [T]
 - Size Changer
 - Helicopter Monke [T]
 - Beyblade Monke [T]
@@ -71,7 +67,8 @@
 - Flip Head
 - Snap Neck
 - Fake Lag [A]
-- Fake Quest Menu
+- Anti-Report Kick Gun
+- Jumpscare Gun
 
 # Movement
 - Platforms
@@ -89,38 +86,45 @@
 - Velocity Fly
 - Up & Down
 - Speed Boost
+- Mosa Boost
 - Competitive Boost
 - Speed Boost [R GRIP]
+- Mosa Boost [R GRIP]
 - Competitive Boost [R GRIP]
 - Playspace
 - Dash
 - Air Jump
 - No Slip
 - Slide Control
+- No Gravity
 - Low Gravity
 - High Gravity
-- Check Point
-- Place C4
 - Wall Walk
 - Stronger Wall Walk
 - Weaker Wall Walk
 - Car Monke [T]
 - Fast Swim
-- TP To Stump [T]
 - No Tag Freeze
 
+# Tag Mods
+- Tag All [T]
+- Tag Self [T]
+- Tag Gun
+- Flick Tag [T]
+- Tag Aura
+
 # Visuals
-- Full Body ESP
-- Skeleton ESP
+- Chams ESP
+- Bone ESP
 - Box ESP
-- 3D Box ESP
+- Wireframe ESP
 - 2D Box ESP
 - Tracers
 - First Person Camera
 - Bad Graphics
 - Break Lighting
 
-# Fun
+# Fun & Random
 - Webshooters
 - Water Bender
 - Splash Hands
@@ -128,15 +132,30 @@
 - Splash Aura
 - Splash Self
 - Punch Mod
+- Check Point
+- Place C4
 - Fast Monsters [M|SS]
 - Destroy Monsters [M|T]
 - Freeze Monsters [M|T]
+- Everything Slippery
 - Dick Mod
 - Monster Dick [M]
 - Dick Holdable
 - Draw [A To Cycle Colors]
 - Grab Gliders [G]
 - Spaz Gliders [G]
+- TP To Stump
+
+# Set Names
+- No Name
+- NXO On Top
+- RUN
+- PBBV 
+- DAISYO9
+- WARNING
+- N Word [UND]
+- Hard N Word [UND]
+- KKK [UND]
 
 # Projectile
 - Snowball Spam [LT & RT]
@@ -149,9 +168,15 @@
 - Snowball Block [A]
 - Colorful Snowballs
 
-# Sound
+# Sound Spammers
 - Custom Sound Spam [T|A & B]
 - Random Sound Spam [T]
+- Glass Sound Spam [T]
+- Metal Sound Spam [T]
+- Squeaky Sound Spam [T]
+- Crystal Sound Spam [T]
+- Turkey Sound Spam [T]
+- Frog Sound Spam [T]
 
 # Overpowered
 - Check If Modded
@@ -159,6 +184,7 @@
 - Float Player Gun [M|W?]
 - Freeze Player Gun [M|W?]
 - Push Players [M|W?]
+- Break All Movement [M]
 - Brawl Spam Gun [M|T]
 - Brawl Spam All [M|T]
 - Mat Spam All [M|T|RISKY]
@@ -166,46 +192,7 @@
 # Experimental
 - Horror Mode [DOESNT TURN OFF]
 - Blinding Mode [DOESNT TURN OFF]
-- Cupid Spam [BREAKS SNOWBALLS]
-- Icicle Spam [BREAKS SNOWBALLS]
-- Gay Spam [BREAKS SNOWBALLS]
-- Christmas Spam [BREAKS SNOWBALLS]
 - Slip Slap [ONLY RED WALLS]
+- Copy Player Gun [WIP]
+- Oculus Anti Report [WIP]
 
-# Best Trolling Mods
-- Ghost Monke
-- Invisible Monke
-- Ghost & Invisibility
-- Ghost Fly
-- Sticky Platforms
-- Sticky Platforms [T]
-- Noclip
-- Noclip [B]
-- Ghost Long Arms
-- Griddy [A]
-- Chase Gun
-- Spin Head
-- Flip Head
-- Backwards Head
-- Snap Neck
-- Fake Lag
-- T-Pose [T]
-- Helicopter Monke
-- Beyblade Monke
-- Spaz Monke
-- Orbit Gun
-- Intercourse Gun
-
-# Best Competitive Mods
-- Speed Boost
-- Competitive Boost
-- Speed Boost [R GRIP]
-- Competitive Boost [R GRIP]
-- Dash [A]
-- Playspace
-- Air Jump [A]
-- No Slip
-- Slide Control
-- Wall Walk
-- Stronger Wall Walk
-- Weaker Wall Walk

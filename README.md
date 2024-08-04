@@ -1,22 +1,17 @@
-# NXO-V5-Features
-# Here at the features for the NXO V5 Mod Menu Including 160+ mods!
+# NXO-V5-Hotfix-Features
+# Here at the features for the NXO V5 Mod Menu Including 175+ mods!
 
 # Categorys
 - Settings
 - Safety
-- Room Mods
-- Player Mods
-- Movement Mods
-- Tag Mods
-- Visual Mods
-- Projectile Mods
-- Sound Spammers
-- Fun Mods
-- Name Changers
-- Presets
-- Overpowered
+- Room
+- Player
+- Movement
+- Visual
+- Sound
+- Fun & Random
 - Experimental
-- Admins Only
+- Overpowered
 
 # Settings
 - Disconnect Button
@@ -26,11 +21,14 @@
 - Right Hand Menu
 - Theme Changer
 - Change Time
+- Pc Guns
 
 # Safety
 - Anti Report
 - Queue Anti Report
 - Leaderboard Name Spoof
+- Sensitive Queue Anti Report
+- Sensitive Leaderboard Name Spoof
 - Disable Fingers
 - Check If Modded
 - Check If Master
@@ -58,11 +56,18 @@
 - Beyblade Monke [T]
 - Spaz Monke
 - Teleport Gun
+- Tag All [T]
+- Tag Self [T]
+- Tag Gun
+- Tag Bot
+- Flick Tag [T]
+- Tag Aura
 - Rig Gun
 - Chase Gun
 - Orbit Gun
 - Intercourse Gun
 - Spin Head
+- Spaz Arms
 - Backwards Head
 - Flip Head
 - Snap Neck
@@ -73,8 +78,6 @@
 # Movement
 - Platforms
 - Platforms [T]
-- Sticky Platforms
-- Sticky Platforms [T]
 - Invisible Platforms
 - Invisible Platforms [T]
 - Noclip
@@ -84,6 +87,7 @@
 - Regular Fly
 - Fast Fly
 - Velocity Fly
+- WASD Fly
 - Up & Down
 - Speed Boost
 - Mosa Boost
@@ -106,31 +110,29 @@
 - Fast Swim
 - No Tag Freeze
 
-# Tag Mods
-- Tag All [T]
-- Tag Self [T]
-- Tag Gun
-- Flick Tag [T]
-- Tag Aura
-
 # Visuals
 - Chams ESP
 - Bone ESP
 - Box ESP
 - Wireframe ESP
 - 2D Box ESP
+- Filled 2D Box ESP
 - Tracers
 - First Person Camera
 - Bad Graphics
 - Break Lighting
+- Better Names
 
 # Fun & Random
+- Maxwell
 - Webshooters
 - Water Bender
 - Splash Hands
 - Water Barrage
 - Splash Aura
 - Splash Self
+- Snowball Block [A]
+- Colorful Snowballs
 - Punch Mod
 - Check Point
 - Place C4
@@ -145,30 +147,15 @@
 - Grab Gliders [G]
 - Spaz Gliders [G]
 - TP To Stump
-
-# Set Names
 - No Name
-- NXO On Top
-- RUN
-- PBBV 
-- DAISYO9
-- WARNING
-- N Word [UND]
-- Hard N Word [UND]
-- KKK [UND]
+- "NXO On Top"
+- "RUN"
+- "PBBV"
+- "DAISY09"
+- "WARNING"
+- Cycle Name Changer
 
-# Projectile
-- Snowball Spam [LT & RT]
-- Balloon Spam [LT & RT]
-- Urine Spam [LT & RT]
-- Cum Spam [LT & RT]
-- Poop Spam [LT & RT]
-- Period [LT & RT]
-- Vomit [LT & RT]
-- Snowball Block [A]
-- Colorful Snowballs
-
-# Sound Spammers
+# Sound
 - Custom Sound Spam [T|A & B]
 - Random Sound Spam [T]
 - Glass Sound Spam [T]
@@ -177,22 +164,27 @@
 - Crystal Sound Spam [T]
 - Turkey Sound Spam [T]
 - Frog Sound Spam [T]
-
-# Overpowered
-- Check If Modded
-- Check If Master
-- Float Player Gun [M|W?]
-- Freeze Player Gun [M|W?]
-- Push Players [M|W?]
-- Break All Movement [M]
-- Brawl Spam Gun [M|T]
-- Brawl Spam All [M|T]
-- Mat Spam All [M|T|RISKY]
+- Gun Sound Spam [T]
+- Wolf Sound Spam [T]
+- Cat Sound Spam [T]
+- Bee Sound Spam [T]
 
 # Experimental
 - Horror Mode [DOESNT TURN OFF]
 - Blinding Mode [DOESNT TURN OFF]
 - Slip Slap [ONLY RED WALLS]
-- Copy Player Gun [WIP]
-- Oculus Anti Report [WIP]
+
+# Overpowered
+- Float Player Gun [M]
+- Freeze Player Gun [M]
+- Push Players [M]
+- Force Party [B|KKK]
+- Force Party [B|NIGGER]
+- Force Party [B|NIGGA]
+- Force Party [B|WARNING]
+- Force Party [B|BANNED]
+- Force Party [B|PBBV]
+- Force Party [B|NXOONTOP]
+- Force Party [B|GETHACKED]
+- Force Party [B|DAISY09]
 

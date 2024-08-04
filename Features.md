@@ -41,6 +41,7 @@
 - X To Disconnect
 - Disable Network Triggers
 - Grab All ID'S
+- Grab Self ID
 
 # Player
 - Ghost Monke [A]
